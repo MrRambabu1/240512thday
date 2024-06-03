@@ -1,0 +1,9 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+p {
+    border: 2px solid powderblue;
+    padding: 30px;
+}
